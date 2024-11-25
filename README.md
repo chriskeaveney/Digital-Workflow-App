@@ -13,7 +13,7 @@ The app allowed full flexibility for all PM's, directors, contractors and engine
 
 ![](images/ProjectTasksScreen.PNG)
 
-The app not only allowed users to keep full control over every task in the project but also provided security, transparency across teams, easy access and valuable data insights from each project using provided dashboards in the app.
+The app not only allowed users to keep full control over every task in the project but also provided security, permission levels, transparency across teams, easy access and valuable data insights from each project using provided dashboards in the app.
 
 ![](images/Dashboard.PNG)
 ![](images/dashboard2.PNG)
